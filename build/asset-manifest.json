@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/public/odk/edc/static/css/main.f251f349.css",
+    "main.js": "/public/odk/edc/static/js/main.bd552052.js",
+    "static/js/453.bc29fcf7.chunk.js": "/public/odk/edc/static/js/453.bc29fcf7.chunk.js",
+    "index.html": "/public/odk/edc/index.html",
+    "main.f251f349.css.map": "/public/odk/edc/static/css/main.f251f349.css.map",
+    "main.bd552052.js.map": "/public/odk/edc/static/js/main.bd552052.js.map",
+    "453.bc29fcf7.chunk.js.map": "/public/odk/edc/static/js/453.bc29fcf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f251f349.css",
+    "static/js/main.bd552052.js"
+  ]
+}

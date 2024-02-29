@@ -12,6 +12,7 @@ function App() {
 
   const handleLogin = async () => {
     try {
+      // Zamijenite ovo s pravim pozivom API-ja za prijavu
       const response = await axios.post('https://edc-central.xyz/v1/sessions', { username, password });
       const data = response.data;
       setToken(data.token);
